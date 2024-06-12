@@ -1,0 +1,47 @@
+body {
+    margin-top: 30px;
+    margin-left:30px;
+    margin-right:30px;
+    background-image: url("slike_1/backgrounds.jpg");
+    background-size: 100%;
+    background-position: fixed;
+
+}
+
+h2{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:rgb(181, 222, 255);
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    width: 250px;
+    
+}
+li {list-style: none;
+    padding:10px;
+    font-size:20px;
+    background-color: rgb(186, 223, 255, 0.5);
+}
+span {
+    font-weight:bold;
+    color:rgb(176, 255, 255);
+
+}
+img {
+    height:480px;
+    width:auto;
+    padding:30px;
+   
+}
+iframe {
+    padding:10px;
+    margin-left: 30px;
+}
+video {margin-left: 30px;}
